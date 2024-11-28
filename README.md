@@ -11,6 +11,10 @@ inputs = {
 }
 ```
 
+> [!WARNING]
+> This is a personal fork of a testing fork of this flake. Feel free to use it, but i can't promise i'll have
+> time to keep it properly up-to-date. I just want the update notification to go away when i open zen.
+
 ## Packages
 
 This flake exposes two packages, corresponding to the `specific` and `generic` zen versions.
