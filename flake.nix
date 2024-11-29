@@ -10,7 +10,7 @@
     nixpkgs,
   }: let
     system = "x86_64-linux";
-    version = "1.0.1-a.21";
+    version = "1.0.1-a.22";
     downloadUrl = {
       "specific" = {
         url = "https://github.com/zen-browser/desktop/releases/download/${version}/zen.linux-specific.tar.bz2";
